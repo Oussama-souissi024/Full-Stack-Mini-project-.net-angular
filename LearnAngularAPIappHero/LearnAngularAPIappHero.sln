@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnAngularAPIappHero", "LearnAngularAPIappHero\LearnAngularAPIappHero.csproj", "{DB63B083-28F5-4505-95B7-A7E026DD2306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{61BE6564-4914-4F17-92BE-4BBBC39BA1D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{1A98469B-B24F-433C-B025-9C434A82DE53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB63B083-28F5-4505-95B7-A7E026DD2306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB63B083-28F5-4505-95B7-A7E026DD2306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB63B083-28F5-4505-95B7-A7E026DD2306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB63B083-28F5-4505-95B7-A7E026DD2306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BE6564-4914-4F17-92BE-4BBBC39BA1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BE6564-4914-4F17-92BE-4BBBC39BA1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BE6564-4914-4F17-92BE-4BBBC39BA1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BE6564-4914-4F17-92BE-4BBBC39BA1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A98469B-B24F-433C-B025-9C434A82DE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A98469B-B24F-433C-B025-9C434A82DE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A98469B-B24F-433C-B025-9C434A82DE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A98469B-B24F-433C-B025-9C434A82DE53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9DAF9FF-775E-4C58-A979-93465C43B92F}
+	EndGlobalSection
+EndGlobal

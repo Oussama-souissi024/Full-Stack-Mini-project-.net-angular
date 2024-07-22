@@ -1,0 +1,23 @@
+<div class="row mt-1">
+  <div class="col-3 mt-5" *ngFor="let hero of heroes">
+    <div class="card p-1" [ngClass]="{
+      'bg-Top': hero.power > 95,
+      'bg-Medium': hero.power > 90 && hero.power < 94,
+      'bg-Lower': hero.power < 90
+    }">
+      <div class="card-image">
+        <!-- Use imageBase64 if available, otherwise fall back to imageUrl -->
+        <img *ngIf="hero.imageBase64"
+             [src]="'data:image/jpeg;base64,' + hero.imageBase64"
+             alt="{{ hero.name }} Image"/>
+        <img *ngIf="!hero.imageBase64" [src]="'https://localhost:7082/' + hero.imageUrl" alt="{{ hero.name }} Image"/>
+      </div>
+      <div class="card-body">
+        <h2>{{ hero.name }}</h2>
+        <p>{{ hero.power }}</p>
+        <button (click)="DeleteHero(hero.heroId)" class="btn btn-danger">Delete</button>
+        <button [routerLink]="['/Update', hero.heroId]" class="btn btn-info">Edit</button>
+      </div>
+    </div>
+  </div>
+</div>

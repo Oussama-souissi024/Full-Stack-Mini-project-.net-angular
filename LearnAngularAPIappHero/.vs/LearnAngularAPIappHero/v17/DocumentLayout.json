@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB63B083-28F5-4505-95B7-A7E026DD2306}|LearnAngularAPIappHero\\LearnAngularAPIappHero.csproj|c:\\users\\admin\\desktop\\learnangularapiapphero\\learnangularapiapphero\\controllers\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB63B083-28F5-4505-95B7-A7E026DD2306}|LearnAngularAPIappHero\\LearnAngularAPIappHero.csproj|solutionrelative:learnangularapiapphero\\controllers\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE6564-4914-4F17-92BE-4BBBC39BA1D7}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\learnangularapiapphero\\bll\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE6564-4914-4F17-92BE-4BBBC39BA1D7}|BLL\\BLL.csproj|solutionrelative:bll\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A98469B-B24F-433C-B025-9C434A82DE53}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\learnangularapiapphero\\dal\\sqlserver\\heroentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A98469B-B24F-433C-B025-9C434A82DE53}|DAL\\DAL.csproj|solutionrelative:dal\\sqlserver\\heroentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB63B083-28F5-4505-95B7-A7E026DD2306}|LearnAngularAPIappHero\\LearnAngularAPIappHero.csproj|c:\\users\\admin\\desktop\\learnangularapiapphero\\learnangularapiapphero\\code\\uploadfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB63B083-28F5-4505-95B7-A7E026DD2306}|LearnAngularAPIappHero\\LearnAngularAPIappHero.csproj|solutionrelative:learnangularapiapphero\\code\\uploadfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB63B083-28F5-4505-95B7-A7E026DD2306}|LearnAngularAPIappHero\\LearnAngularAPIappHero.csproj|c:\\users\\admin\\desktop\\learnangularapiapphero\\learnangularapiapphero\\code\\iuploadfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB63B083-28F5-4505-95B7-A7E026DD2306}|LearnAngularAPIappHero\\LearnAngularAPIappHero.csproj|solutionrelative:learnangularapiapphero\\code\\iuploadfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB63B083-28F5-4505-95B7-A7E026DD2306}|LearnAngularAPIappHero\\LearnAngularAPIappHero.csproj|c:\\users\\admin\\desktop\\learnangularapiapphero\\learnangularapiapphero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB63B083-28F5-4505-95B7-A7E026DD2306}|LearnAngularAPIappHero\\LearnAngularAPIappHero.csproj|solutionrelative:learnangularapiapphero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A98469B-B24F-433C-B025-9C434A82DE53}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\learnangularapiapphero\\dal\\idatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A98469B-B24F-433C-B025-9C434A82DE53}|DAL\\DAL.csproj|solutionrelative:dal\\idatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\LearnAngularAPIappHero\\Program.cs",
+              "RelativeDocumentMoniker": "LearnAngularAPIappHero\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\LearnAngularAPIappHero\\Program.cs",
+              "RelativeToolTip": "LearnAngularAPIappHero\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:51:03.633Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUploadFileService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\LearnAngularAPIappHero\\Code\\IUploadFileService.cs",
+              "RelativeDocumentMoniker": "LearnAngularAPIappHero\\Code\\IUploadFileService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\LearnAngularAPIappHero\\Code\\IUploadFileService.cs",
+              "RelativeToolTip": "LearnAngularAPIappHero\\Code\\IUploadFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:32:57.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadFileService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\LearnAngularAPIappHero\\Code\\UploadFileService.cs",
+              "RelativeDocumentMoniker": "LearnAngularAPIappHero\\Code\\UploadFileService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\LearnAngularAPIappHero\\Code\\UploadFileService.cs",
+              "RelativeToolTip": "LearnAngularAPIappHero\\Code\\UploadFileService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:39:41.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\LearnAngularAPIappHero\\Controllers\\HeroController.cs",
+              "RelativeDocumentMoniker": "LearnAngularAPIappHero\\Controllers\\HeroController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\LearnAngularAPIappHero\\Controllers\\HeroController.cs",
+              "RelativeToolTip": "LearnAngularAPIappHero\\Controllers\\HeroController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:55:50.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeroEntity.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\DAL\\SqlServer\\HeroEntity.cs",
+              "RelativeDocumentMoniker": "DAL\\SqlServer\\HeroEntity.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\DAL\\SqlServer\\HeroEntity.cs",
+              "RelativeToolTip": "DAL\\SqlServer\\HeroEntity.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:56:11.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\DAL\\IDataHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\IDataHelper.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\DAL\\IDataHelper.cs",
+              "RelativeToolTip": "DAL\\IDataHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:54:44.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\BLL\\Hero.cs",
+              "RelativeDocumentMoniker": "BLL\\Hero.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\LearnAngularAPIappHero\\BLL\\Hero.cs",
+              "RelativeToolTip": "BLL\\Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:49:52.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

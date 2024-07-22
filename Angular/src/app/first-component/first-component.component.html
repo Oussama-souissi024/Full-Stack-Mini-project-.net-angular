@@ -1,0 +1,40 @@
+<p *ngIf="Display">Display Condition</p>
+<button (click)="ChangeMessiImage()">Messi</button>
+<button (click)="ChangeRonaldoImage()">Ronaldo</button>
+<h4>{{ User.Name }}</h4>
+<h5>{{ User.Age }}</h5>
+<img [src]="User.Image" alt="User Image"/>
+<br/>
+<!-- Conditional image display -->
+<button (click)="ChangeImageStatus()">Zlatan Image</button>
+<br/>
+<img *ngIf="ImageStatus" [src]="ImageZlatanUrl" alt="Zlatan Image"/>
+<!-- Alternate message when ImageStatus is false -->
+<p *ngIf="!ImageStatus">Zlatan image status is false</p>
+<br/>
+<h3 *ngFor="let Item of Cars">{{ Item }}</h3>
+<div *ngFor="let Item of Students">
+    <ng-container *ngIf="Item.Age < 25">
+        <h3>{{ Item.Name }}</h3>
+        <p>{{ Item.Age }}</p>
+    </ng-container>
+</div>
+<br/>
+<div [ngSwitch]="Color">
+    <p *ngSwitchCase="'Red'">This is Red</p>
+    <p *ngSwitchCase="'Yellow'">This is Yellow</p>
+    <p *ngSwitchCase="'Blue'">This is Blue</p>
+    <p *ngSwitchDefault>Unknown color</p>
+</div>
+<br/>
+
+<div [ngStyle]="{ 'background-color': Employee.bg }">
+    <h1 [ngStyle]="{ 'color' : Employee.color }">{{ Employee.name }}</h1>
+    <p>{{ Employee.age }}</p>
+</div>
+<br/>
+<div *ngFor="let Item of Students" [ngClass]="{ 'bg-danger': Item.Age < 25, 'bg-success': Item.Age >= 25 }">
+    <h1>{{ Item.Name }}</h1>
+    <p>{{ Item.Age }}</p>
+</div>
+  
